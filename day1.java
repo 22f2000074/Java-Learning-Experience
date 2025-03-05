@@ -2,7 +2,7 @@
 //Developed by James Gosling
 //Java was devloped in 1991 and was first named as OAK
 //first edition launched in 1996
-public class day{
+public class day1{
     public void main(String[] args){
         System.out.println("Hello World");
     }
