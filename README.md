@@ -14,6 +14,7 @@ This repository documents my journey of learning Java, covering fundamental conc
 
 ## 📂 Repository Structure
 - **Day 1**: First java Program, Basic I/O, Pattern Printing, loops
+- **Day 2**: implementation of if-else, if else-if else, a phone banking system using switch-case
 
 ## 🔧 Tech Stack
 - **Language**: Java (JDK 17+)
