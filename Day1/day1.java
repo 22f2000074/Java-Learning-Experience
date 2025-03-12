@@ -57,6 +57,7 @@ public class day1 {
         int age =sc.nextInt();
         System.out.println("Calling if-else loop");
         conditional_statement(age);
+        sc.close();
 
     }
 

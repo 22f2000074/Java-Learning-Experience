@@ -70,6 +70,6 @@ public class day2 {
 
         }
         System.out.println("Thank you for using Phone Banking System");
-
+        sc.close();
     }
 }
