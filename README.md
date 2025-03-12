@@ -23,7 +23,9 @@ This repository documents my journey of learning Java, covering fundamental conc
 - **IDE**: VS Code
 
 ## 📈 Progress Tracker
-- 🔄 Java Basics Completed (In Progress)
+- ✅ Java Basics (Completed)
+- ✅ Control Flow & Loops (Completed)
+- 🔄 Functions & OOP Concepts (In Progress)
 
 ## 💡 How to Use This Repository
 1. Clone the repository: `git clone https://github.com/22f2000074/java-learning-experience.git`

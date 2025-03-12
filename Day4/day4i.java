@@ -1,19 +1,21 @@
 package Day4;
 
 public class day4i {
-    // non static function aka instance(object) member function
-    // if there is a variable declared here it is instance(object) member variable
-    void naturalsum(int n){
-        int final_sum=0;
-        for (int k=0;k<=n;k++){
-            
-            final_sum+=k;
+    // Instance method (non-static method), requires an object to be called.
+    // Calculates the sum of the first 'n' natural numbers.
+    void naturalsum(int n) {
+        int final_sum = 0;
+        for (int k = 0; k <= n; k++) {
+            final_sum += k;
         }
-        System.out.println("The sum of first "+n+" natural numbers is "+final_sum);
-
-    
+        System.out.println("The sum of the first " + n + " natural numbers is " + final_sum);
     }
-    int x; // instance member variable
-    int y; // instance member variable
-    private int z;
+
+    // Instance variables (object-specific variables, initialized to default values).
+    int x; // Default value: 0
+    int y; // Default value: 0
+    private int z; // Private variable, accessible only within this class.
+    public void main(String [] args){ // note that static keyword is missing in main method.
+        System.out.println(z);
+    }
 }
